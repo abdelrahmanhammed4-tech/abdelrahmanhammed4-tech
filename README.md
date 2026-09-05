@@ -11,7 +11,7 @@ Hi 👋 I'm Abdelrahman Hammed
 </h1>
 
 <h3 align="center">
-Frontend Developer • Java Developer • Computer Science Student
+Frontend Developer • UI Designer • Java Developer • Software Engineer • Computer Science Student • Agentic AI Enthusiast 
 </h3>
 
 <p align="center">
