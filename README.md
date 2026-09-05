@@ -180,15 +180,6 @@ Backend       ██░░░░░░░░ 20%
 </p>
 
 ---
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahmanhammed4-tech&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
 ---
 # 🚀 Coding Journey
 
