@@ -235,7 +235,7 @@ Coming Soon
 ⚙️ HTML • CSS • JavaScript
 </td>
 
-<td width="50%" valign="top">
+<!-- <td width="50%" valign="top">
 
 ## 🎓 Student Dashboard
 
@@ -321,7 +321,7 @@ Coming Soon
 
 🔗 Coming Soon
 
-</td>
+</td> -->
 
 </tr>
 
